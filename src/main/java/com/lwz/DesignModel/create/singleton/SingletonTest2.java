@@ -1,4 +1,4 @@
-package com.lwz.springboot_demo.DesignModel.singleton;
+package com.lwz.DesignModel.create.singleton;
 
 /**
  * @program: springboot_demo
